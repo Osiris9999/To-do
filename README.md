@@ -4,9 +4,14 @@ A to-do list repo
 ## Coldfire
 
 Error in std
-filetoslice()
-Contains() array
+
 Base 64 
+
+
+filetoslice()
+
+Contains() array
+
 MD5
 
 Zip
