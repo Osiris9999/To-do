@@ -1,20 +1,12 @@
 # To-do
 A to-do list repo
 
-## Osiris-bot
-
-Add password breach check
-
 ## Coldfire
 
 Error in std
-
+filetoslice()
+Contains() array
 Base 64 
-
 MD5
 
-SHA
-
 Zip
-
-## Learn Javascript
