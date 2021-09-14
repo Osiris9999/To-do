@@ -5,13 +5,10 @@ A to-do list repo
 
 Error in std
 
-Base 64 
-
+MD5
 
 filetoslice()
 
 Contains() array
-
-MD5
 
 Zip
