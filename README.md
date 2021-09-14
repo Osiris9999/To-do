@@ -3,10 +3,10 @@ A to-do list repo
 
 ## Coldfire
 
-Error in std
-
 filetoslice()
 
 Contains() array
 
 Zip
+
+Error in std
