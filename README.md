@@ -5,8 +5,10 @@ A to-do list repo
 
 filetoslice()
 
-Contains() array
+makeZip
 
-Zip
+Wait
+
+Info()
 
 Error in std
