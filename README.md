@@ -11,4 +11,8 @@ Wait
 
 Info()
 
+SendDataTCP()
+
+SendDataUDP()
+
 Error in std
