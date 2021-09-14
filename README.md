@@ -5,8 +5,6 @@ A to-do list repo
 
 Error in std
 
-MD5
-
 filetoslice()
 
 Contains() array
