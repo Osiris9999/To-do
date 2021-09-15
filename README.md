@@ -3,8 +3,6 @@ A to-do list repo
 
 ## Coldfire
 
-filetoslice()
-
 makeZip
 
 Wait
