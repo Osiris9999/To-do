@@ -3,6 +3,8 @@ A to-do list repo
 
 ## Coldfire
 
+FilePermissions()
+
 makeZip
 
 Info()
