@@ -5,8 +5,6 @@ A to-do list repo
 
 makeZip
 
-Wait
-
 Info()
 
 SendDataTCP()
