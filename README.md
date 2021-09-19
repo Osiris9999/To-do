@@ -11,8 +11,6 @@ A to-do list repo
 
 ### return the global Ip address of the machine.
 
-### get the local Ip address of the machine.
-
 ### return the Ip address of the gateway in the network.
 
 ### return the currently used wireless interface and its MAC address.
