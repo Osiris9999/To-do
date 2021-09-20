@@ -9,6 +9,8 @@ A to-do list repo
 
 ### increment an IP address by 1.
 
+  - collect ip address remove dots and collect as vector. add last part of vector.
+
 ### return the global Ip address of the machine.
 
 ### return the Ip address of the gateway in the network.
