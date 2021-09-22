@@ -11,8 +11,6 @@ A to-do list repo
 
   - collect ip address remove dots and collect as vector. add last part of vector.
 
-### return the global Ip address of the machine.
-
 ### return the Ip address of the gateway in the network.
 
 ### return the currently used wireless interface and its MAC address.
