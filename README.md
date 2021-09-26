@@ -5,6 +5,8 @@ A to-do list repo
 
 ### tell the process to listen to a local port for commands.
 
+  - get string witha rust server and pass to std::process
+
 ### initiate a reverse shell to a given host:port.
 
 ### increment an IP address by 1.
