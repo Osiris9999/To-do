@@ -1,7 +1,7 @@
 # To-do
 A to-do list repo
 
-## new project lelouch
+## new project lelouch (python)
 
 https://nevonprojects.com/information-security-projects/
 
